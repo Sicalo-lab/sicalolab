@@ -14,4 +14,4 @@ The lab is led by **[Leonor Sicalo Gianechini](https://vet.uga.edu/person/leonor
 
 **[Learn more about our research]({{ site.url }}{{ site.baseurl }}/research)** or **[meet the team]({{ site.url }}{{ site.baseurl }}/team)**.
 
-**We are looking for motivated students and researchers to join the lab — [get in touch](mailto:contact@sicalolab.org)!**
+**We are looking for motivated students and researchers to join the lab — [get in touch](mailto:sicalo.leonor@uga.edu)!**

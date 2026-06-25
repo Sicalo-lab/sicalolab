@@ -8,7 +8,7 @@ permalink: /team/
 
 # People
 
-**We are looking for motivated students, postdocs, and researchers to join the team. [Get in touch!](mailto:contact@sicalolab.org)**
+**We are looking for motivated students, postdocs, and researchers to join the team. [Get in touch!](mailto:sicalo.leonor@uga.edu)**
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
