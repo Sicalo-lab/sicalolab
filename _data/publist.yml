@@ -1,10 +1,71 @@
-# Add the lab's publications here. Each entry uses this format:
-#
-# - title: "Paper title"
-#   image:
-#   description: "Short summary of the paper."
-#   authors: "Author, A., Author, B."
-#   link:
-#     url: https://doi.org/...
-#     display: Journal Name, Year
-#   highlight: 1 
+- title: "In vivo efficacy of novel phosphoethanolamine methyltransferase inhibitors against Haemonchus contortus in a jird (Meriones unguiculatus) model"
+  image:
+  description: ""
+  authors: "LS Gianechini, X Zhang, K Li, WH Witola, RM Kaplan"
+  link:
+    url: https://scholar.google.com/citations?user=uhHsV1EAAAAJ&hl=en
+    display: Parasitology International 107, 103054 (2025)
+  highlight: 1
+
+- title: "Multiple-species resistance to avermectin/milbemycin anthelmintics on beef cattle farms in Georgia, USA"
+  image:
+  description: ""
+  authors: "LS Gianechini, KL Paras, MM George, SB Howell, B Storey, MJ Denwood, et al."
+  link:
+    url: https://scholar.google.com/citations?user=uhHsV1EAAAAJ&hl=en
+    display: Veterinary Parasitology 336, 110435 (2025)
+  highlight: 1
+
+- title: "Rapid, automated quantification of Haemonchus contortus ova in sheep faecal samples"
+  image:
+  description: ""
+  authors: "JL Cain, LS Gianechini, AL Vetter, SM Davis, LN Britton, JL Myka, et al."
+  link:
+    url: https://scholar.google.com/citations?user=uhHsV1EAAAAJ&hl=en
+    display: International Journal for Parasitology 54 (1), 47-53 (2024)
+  highlight: 1
+
+- title: "Practical guide to the diagnostics of ruminant gastrointestinal nematodes, liver fluke and lungworm infection"
+  image:
+  description: ""
+  authors: "GA Sabatini, F de Almeida Borges, E Claerebout, LS Gianechini, et al."
+  link:
+    url: https://scholar.google.com/citations?user=uhHsV1EAAAAJ&hl=en
+    display: Parasites & Vectors 16 (1), 58 (2023)
+  highlight: 1
+
+- title: "Multiple anthelmintic drug resistance in hookworms (Ancylostoma caninum) in a Labrador breeding and training kennel in Georgia, USA"
+  image:
+  description: ""
+  authors: "PDJ Castro, K Durrence, S Durrence, LS Gianechini, J Collins, K Dunn, et al."
+  link:
+    url: https://scholar.google.com/citations?user=uhHsV1EAAAAJ&hl=en
+    display: Journal of the American Veterinary Medical Association 261 (3), 342-347 (2023)
+  highlight: 0
+
+- title: "Broad-spectrum inhibitors for conserved unique phosphoethanolamine methyltransferases in parasitic nematodes possess anthelmintic efficacy"
+  image:
+  description: ""
+  authors: "X Zhang, L Sicalo Gianechini, K Li, RM Kaplan, WH Witola"
+  link:
+    url: https://scholar.google.com/citations?user=uhHsV1EAAAAJ&hl=en
+    display: Antimicrobial Agents and Chemotherapy 67 (6), e00008-23 (2023)
+  highlight: 0
+
+- title: "Improving the effectiveness and sustainability of gastrointestinal nematode control in cattle"
+  image:
+  description: ""
+  authors: "LS Gianechini, RM Kaplan"
+  link:
+    url: https://scholar.google.com/citations?user=uhHsV1EAAAAJ&hl=en
+    display: Management Practices for Controlling Nematode Parasites of Small Ruminants (2025)
+  highlight: 0
+
+- title: "Dictiocaulosis en vacas de cria en la provincia de Buenos Aires, Argentina: descripcion de dos brotes"
+  image:
+  description: ""
+  authors: "IM Llada, L Sicalo Gianechini, MM Lloberas, EL Morrell, ER Odriozola, et al."
+  link:
+    url: https://scholar.google.com/citations?user=uhHsV1EAAAAJ&hl=en
+    display: Analecta Veterinaria 40 (1), 25 (2020)
+  highlight: 0
